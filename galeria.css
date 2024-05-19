@@ -19,7 +19,13 @@ h1 {
   border: 3px solid #262626;
   padding: 10px;
   text-align: center;
-}		
+}
+h2 { 
+  background: #7B937A;
+  margin: 20 20%
+  padding: 10px;
+  text-align: center;
+}
 a{
 	color: black;
 	text-decoration: none;
