@@ -2,6 +2,10 @@ body {
   background: rgba(40, 251, 149, 0.54);
   text-align: center;
 }
-footer {
+.menu, .footer {
+  background: #cccccc;
+  border: 3px solid #acacac;
+  padding: 10px;
   text-shadow: 3px 3px 1px black;
+  text-align: center;
 }
